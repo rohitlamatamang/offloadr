@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Button, SectionBadge } from './ui.jsx';
+import { Button, SectionBadge } from './UI.jsx';
 
 const RotatingText = () => {
   const words = ['productive.', 'organized.', 'focused on growth.', 'stress-free.'];

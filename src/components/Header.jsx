@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { ChevronDown, Menu, X } from 'lucide-react';
-import { Button, Logo, TimeDisplay } from './ui.jsx';
+import { Button, Logo, TimeDisplay } from './UI.jsx';
 
 const Header = ({ onMenuToggle, isMenuOpen, onNavigateHome, onNavigateToAbout, currentPage }) => {
   const [servicesOpen, setServicesOpen] = useState(false);

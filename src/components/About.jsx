@@ -1,4 +1,4 @@
-import { Button, SectionBadge } from './ui.jsx';
+import { Button, SectionBadge } from './UI.jsx';
 import { CheckCircle2, Target, Users, TrendingUp } from 'lucide-react';
 
 const About = () => (

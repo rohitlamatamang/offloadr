@@ -1,5 +1,5 @@
 import { ChevronDown, ArrowRight, Briefcase, Users, MessageCircle } from 'lucide-react';
-import { Button, Logo } from './ui.jsx';
+import { Button, Logo } from './UI.jsx';
 import { useState } from 'react';
 
 const MobileMenu = ({ isOpen, onNavigateHome, onNavigateToAbout, currentPage, onClose }) => {

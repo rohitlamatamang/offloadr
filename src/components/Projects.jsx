@@ -1,5 +1,5 @@
 import { ArrowUpRight } from 'lucide-react';
-import { Button } from './ui.jsx';
+import { Button } from './UI.jsx';
 
 const ProjectCard = ({ color, title, subtitle, description, children, year, category }) => (
   <div className="group cursor-pointer pb-8 md:pb-10 lg:pb-0 border-b border-gray-200 lg:border-0">

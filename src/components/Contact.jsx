@@ -1,4 +1,4 @@
-import { Button } from './ui.jsx';
+import { Button } from './UI.jsx';
 
 const Contact = () => (
   <section id="contact" className="bg-black text-white pt-16 md:pt-24 lg:pt-[140px] pb-16 md:pb-24 lg:pb-[140px] px-6 md:px-12">

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Button } from './ui.jsx';
+import { Button } from './UI.jsx';
 
 const InteractiveBlock = ({ x, y, width, height, label, isRightSide = false }) => {
   const [isHovered, setIsHovered] = useState(false);

@@ -1,4 +1,4 @@
-import { Button } from './ui.jsx';
+import { Button } from './UI.jsx';
 
 const Footer = () => (
   <footer className="bg-[#FF4D28] text-white pt-16 px-6 md:px-12 pb-0 overflow-hidden relative">

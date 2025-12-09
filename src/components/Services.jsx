@@ -1,4 +1,4 @@
-import { SectionBadge, Tag } from './ui.jsx';
+import { SectionBadge, Tag } from './UI.jsx';
 
 const Services = () => (
   <section id="services" className="py-12 md:py-16 lg:py-24 px-6 md:px-12 border-t border-gray-200">
